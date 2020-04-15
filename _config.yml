@@ -8,5 +8,4 @@ github_username:  tomchatter
 
 # Build settings
 markdown: kramdown
-
 theme: minima
